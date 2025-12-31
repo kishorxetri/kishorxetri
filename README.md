@@ -1,54 +1,68 @@
-## 🌌 Hey, I’m Kishor
-
-✨ *I enjoy turning ideas into clean, responsive interfaces and learning through building.*
-
----
-
-## 🧠 About Me
-
-* 🎓 BSc. CSIT student with a strong interest in web development
-* 🧩 Frontend-focused developer working with **JavaScript, React.js, and Tailwind CSS**
-* 🌱 Gradually stepping into the backend world with **Node.js**
-* 🛠️ I care about structure, reusability, and user-friendly design
-* ☕ Learning powered by consistency, curiosity, and coffee
+<h1 align="center">Hi 👋, I'm Kishor Chhetri</h1>
+<h3 align="center">Computer Science Student | FrontEnd- Developer | Problem Solver</h3>
 
 ---
 
-## 🧰 Tech Stack
+## 👨‍💻 About Me
 
-**Frontend**
-
-* JavaScript (ES6+)
-* React.js
-* Tailwind CSS
-* HTML5 & CSS3
-
-**Backend (Learning)**
-
-* Node.js
-
-**Tools**
-
-* Git & GitHub
-* VS Code
-* REST APIs
+- 🎓 BSc. CSIT student from Kathmandu, Nepal  
+- 💻 Interested in **Web Development**
+- 🚀 Currently building real-world projects and improving system design skills  
+- 🌱 Learning **advanced JavaScript, TypeScript, React and learning Node JS**
+- 📫 Reach me at: **kishorxetri123@gmail.com**
 
 ---
 
-## 🔍 What I’m Currently Focusing On
+## 🛠️ Tech Stack
 
-* Writing cleaner and more modular React components
-* Improving UI/UX with Tailwind best practices
-* Understanding backend fundamentals step by step
-* Building projects that feel practical, not just academic
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+### Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
 
 ---
 
-## 📫 Let’s Connect
+## 📊 GitHub Stats
 
-* GitHub: *You’re already here 🙂*
-* Portfolio: *In progress*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kishorxetri&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishorxetri&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ *Still learning, still building, and always improving.*
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishorxetri&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kishorxetri&theme=onedark&row=1" />
+</p>
+
+---
+
+
