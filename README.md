@@ -11,9 +11,8 @@
 
 ## 🚀 Quick Stats
 
-<!-- Replace the below link with YOUR stats card image -->
 <p align="center">
-  <img src="YOUR_STATS_CARD_IMAGE_URL" alt="GitHub Quick Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishorxetri&theme=tokyonight" />
 </p>
 
 ---
@@ -67,9 +66,7 @@
 ---
 
 ## 🏆 GitHub Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kishorxetri&theme=tokyonight&row=1&no-bg=false&margin-w=15" />
-</p>
+
 
 ---
 
