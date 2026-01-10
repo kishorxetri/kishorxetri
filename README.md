@@ -61,7 +61,7 @@
 
 ---
 
-### 📎 Connect / Links (Optional)
+### 📎 Connect / Links 
 <p align="center>
   <a href="https://github.com/kishorxetri"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:kishorxetri123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
