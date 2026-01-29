@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Kishor Chhetri</h1>
-<h3 align="center">Frontend Developer • CS Student • Problem Solver</h3>
+<h3 align="center">FullStack Developer • CS Student • Problem Solver</h3>
 
 <p align="center">
   <a href="https://github.com/kishorxetri">
